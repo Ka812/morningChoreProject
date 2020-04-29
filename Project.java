@@ -170,10 +170,3 @@ public class Project {
 
 }
 
-/* Locale locale;
-if(käyttäjä valitsi enkun) {
-    locale = new Locale("en", "US");
-} else if (käyttäjä valitsi suomen) {
-    locale = new Locale("fi", "FI");
-}
-ResourceBundle labels = ResourceBundle.getBundle("ui", locale); */
